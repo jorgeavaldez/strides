@@ -1,5 +1,6 @@
 {
   "name": "strides",
+  "author": "jorge valdez @delvaze",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
